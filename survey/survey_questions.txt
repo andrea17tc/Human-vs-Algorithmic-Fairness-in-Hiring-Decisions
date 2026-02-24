@@ -1,0 +1,209 @@
+Scenario 1 (Large Merit Gap) 
+Candidate A
+•	Test Score: 95
+•	Experience: 2 years
+•	Degree: Statistics
+•	Leadership: No
+•	Gender: Female
+Candidate B
+•	Test Score: 82
+•	Experience: 3 years
+•	Degree: Computer Science
+•	Leadership: Yes
+•	Gender: Male
+________________________________________
+Scenario 2 (Small Score Gap, Gender Conflict)
+Candidate A
+•	Test Score: 88
+•	Experience: 1 year
+•	Degree: Data Science
+•	Leadership: No
+•	Gender: Male
+Candidate B
+•	Test Score: 86
+•	Experience: 3 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Female
+________________________________________
+Scenario 3 (Equal Scores)
+Candidate A
+•	Test Score: 90
+•	Experience: 2 years
+•	Degree: Mathematics
+•	Leadership: Yes
+•	Gender: Male
+Candidate B
+•	Test Score: 90
+•	Experience: 2 years
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Male
+________________________________________
+Scenario 4 (Leadership vs Higher Score)
+Candidate A
+•	Test Score: 91
+•	Experience: 1 year
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Female
+Candidate B
+•	Test Score: 87
+•	Experience: 4 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Female
+________________________________________
+Scenario 5 (Moderate Gap)
+Candidate A
+•	Test Score: 84
+•	Experience: 2 years
+•	Degree: Data Science
+•	Leadership: No
+•	Gender: Non-binary
+Candidate B
+•	Test Score: 89
+•	Experience: 1 year
+•	Degree: Mathematics
+•	Leadership: No
+•	Gender: Male
+________________________________________
+Scenario 6 (Large Gap, Reverse Gender Pattern)
+Candidate A
+•	Test Score: 78
+•	Experience: 3 years
+•	Degree: Computer Science
+•	Leadership: Yes
+•	Gender: Female
+Candidate B
+•	Test Score: 94
+•	Experience: 2 years
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Non-binary
+________________________________________
+Scenario 7 (Small Gap)
+Candidate A
+•	Test Score: 87
+•	Experience: 2 years
+•	Degree: Data Science
+•	Leadership: Yes
+•	Gender: Male
+Candidate B
+•	Test Score: 85
+•	Experience: 3 years
+•	Degree: Mathematics
+•	Leadership: Yes
+•	Gender: Female
+________________________________________
+Scenario 8 (Equal Performance, Gender Variation)
+Candidate A
+•	Test Score: 88
+•	Experience: 3 years
+•	Degree: Statistics
+•	Leadership: No
+•	Gender: Male
+Candidate B
+•	Test Score: 88
+•	Experience: 3 years
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Non-binary
+________________________________________
+Scenario 9 (Score vs Experience Tradeoff)
+Candidate A
+•	Test Score: 92
+•	Experience: 0 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Female
+Candidate B
+•	Test Score: 86
+•	Experience: 4 years
+•	Degree: Data Science
+•	Leadership: Yes
+•	Gender: Male
+________________________________________
+Scenario 10 (Moderate Gap, Gender Switch)
+Candidate A
+•	Test Score: 83
+•	Experience: 2 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Male
+Candidate B
+•	Test Score: 88
+•	Experience: 1 year
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Female
+________________________________________
+Scenario 11 (Equal Score, Experience Conflict)
+Candidate A
+•	Test Score: 89
+•	Experience: 1 year
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Female
+Candidate B
+•	Test Score: 89
+•	Experience: 4 years
+•	Degree: Mathematics
+•	Leadership: No
+•	Gender: Male
+________________________________________
+Scenario 12 (Large Gap, Leadership Advantage Lower Score)
+Candidate A
+•	Test Score: 96
+•	Experience: 1 year
+•	Degree: Computer Science
+•	Leadership: No
+•	Gender: Non-binary
+Candidate B
+•	Test Score: 84
+•	Experience: 4 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Female
+________________________________________
+Scenario 13 (Small Gap, Non-binary High Score)
+Candidate A
+•	Test Score: 90
+•	Experience: 2 years
+•	Degree: Mathematics
+•	Leadership: Yes
+•	Gender: Non-binary
+Candidate B
+•	Test Score: 88
+•	Experience: 2 years
+•	Degree: Data Science
+•	Leadership: No
+•	Gender: Male
+________________________________________
+Scenario 14 (Moderate Gap, Reverse)
+Candidate A
+•	Test Score: 85
+•	Experience: 3 years
+•	Degree: Statistics
+•	Leadership: Yes
+•	Gender: Female
+Candidate B
+•	Test Score: 91
+•	Experience: 1 year
+•	Degree: Mathematics
+•	Leadership: No
+•	Gender: Male
+________________________________________
+Scenario 15 (Equal Strong Candidates)
+Candidate A
+•	Test Score: 93
+•	Experience: 3 years
+•	Degree: Data Science
+•	Leadership: Yes
+•	Gender: Male
+Candidate B
+•	Test Score: 93
+•	Experience: 3 years
+•	Degree: Computer Science
+•	Leadership: Yes
+•	Gender: Female

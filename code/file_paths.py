@@ -1,0 +1,2 @@
+INPUT_FILE='data\\EthicalCognitionandFairnessAnswers.csv'
+OUTPUT_FILE='data\\Preprocessed_EthicalCognitionandFairnessAnswers.csv'
